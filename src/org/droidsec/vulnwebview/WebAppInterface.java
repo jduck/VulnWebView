@@ -5,7 +5,7 @@ import android.widget.Toast;
 
 public class WebAppInterface {
     Context mContext;
-    private String mWTF = "lolz";
+    //private String mWTF = "lolz";
 
     /** Instantiate the interface and set the context */
     WebAppInterface(Context c) {

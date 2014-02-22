@@ -36,7 +36,7 @@ public class MainActivity extends Activity {
 		myWebView.addJavascriptInterface(new WebAppInterface(this), "Android");
 		
 		// woot.
-		myWebView.loadUrl("http://droidsec.org/addjsif.html");
+		myWebView.loadUrl("http://www.droidsec.org/tests/addjsif/");
 	}
 
 	@Override
